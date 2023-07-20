@@ -1,0 +1,33 @@
+.footer{
+    margin-top: 1rem;
+    padding: 2rem 0;
+    background-color: #F84646;
+    color: white;
+}
+.subPoints{
+    display: flex;
+}
+.footer ul {
+    padding: 4rem;
+    list-style-type:none ;
+    line-height: 3rem;
+    font-size: 1.2rem;
+}
+.footer li{
+    color: #ffffff;
+    font-weight: 200;
+}
+.links{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 3rem 3rem 3rem;
+    font-size: 1.2rem;
+
+}
+.copyright{
+    color: #ffffff;
+}
+.socialLinks img{
+    padding: 0 .5rem;
+    cursor: pointer;
+}

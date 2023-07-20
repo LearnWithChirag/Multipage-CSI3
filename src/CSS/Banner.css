@@ -1,0 +1,25 @@
+.banner{
+    background-image: url(../images/banner.png);
+    height: 22rem;
+    margin: 5rem 0;
+    color: white;
+    position: relative;
+}
+.empty{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5rem 3rem;
+    height: 22rem;
+    background-color:  #f84646c8;
+}
+.subHeading{
+    font-size: 1.5rem;
+    padding: 1.5rem;
+}
+.bannerContent{
+    display: flex;
+    margin-top: 4rem ;
+    gap: 2rem;
+    font-size: 1.5rem;
+}

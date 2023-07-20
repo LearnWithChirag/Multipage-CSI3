@@ -1,0 +1,36 @@
+.companyContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0rem 0rem;
+    background-color: #f4f5f7;
+    padding: 5rem;
+}
+.companyContainer h1{
+    font-size: 3.5rem;
+}
+.companyContainer p{
+    font-size: 1.5rem;
+    padding: 1rem;
+}
+.logo{
+    display: flex;
+    /* border: .2rem solid black; */
+    height: 20rem;   
+}
+.row{
+    display: flex;
+    flex-direction: column;
+    /* height: 5rem; */
+    /* background-color: #ffffff; */
+    /* align-items: center; */
+    justify-content: center;
+    gap: 2rem;
+    padding: 1rem;
+}
+.row img{
+    background-color: white;
+    width: 10rem;
+    border-radius: .5rem;
+    height: 4rem; 
+}

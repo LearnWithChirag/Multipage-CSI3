@@ -1,0 +1,25 @@
+.getInTouch{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 3rem;
+}
+.getInTouch h1{
+    font-size: 4rem;
+    padding-bottom: .5rem;
+}
+.getInTouch p{
+    font-size: 1.3rem;
+}
+.getInTouch input{
+    width: 14rem;
+    height: 4rem;
+    font-size: 1.5rem;
+    border-radius: .5rem;
+    margin-top: 2rem;
+    margin-bottom: 6rem;
+    border: none;
+    color: white;
+    cursor: pointer;
+    background-color: #F84646;
+}
